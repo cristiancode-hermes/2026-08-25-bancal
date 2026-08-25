@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.angular/
+.env
+*.db
+*.db-*
+*.log
+_web_node_modules
+coverage/
+apps/api/data/

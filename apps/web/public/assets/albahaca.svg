@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img">
+<rect width="640" height="480" fill="#E3EFE6"/>
+
+<path d="M320 400V160"/>
+<path d="M320 220c-80-10-120-70-90-130 70 20 90 70 90 130z" fill="#2A6A48"/>
+<path d="M320 250c80-10 120-70 90-130-70 20-90 70-90 130z" fill="#1E4A32"/>
+<path d="M320 310c-90 10-120-50-80-110 70 10 80 60 80 110z" fill="#3E8A3A"/>
+<path d="M320 340c90 10 120-50 80-110-70 10-80 60-80 110z" fill="#2A6A48"/>
+<line x1="320" y1="400" x2="320" y2="150" stroke="#153526" stroke-width="8"/>
+
+</svg>
