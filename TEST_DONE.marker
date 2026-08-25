@@ -1,0 +1,9 @@
+QA testing complete for 2026-08-25
+Project: bancal
+Build: ✅ Angular 22 + NestJS 11 (dist presente, API :3074)
+Tests: 19/19 passing (Jest) + 29/29 endpoint smoke + browser 7/7
+New tests: existing coverage adequate
+Issues: 0 critical
+Published: ✅ Caddy (bancal.proyectos.cristiancode.dev), ✅ Portfolio (es.ts+en.ts+pt.ts)
+QR real: sí | url: /pase/:code
+contraste-hover: PASS
